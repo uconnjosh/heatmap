@@ -2,7 +2,7 @@ module Heatmap
 
   class Point
 
-    DEFAULT_INTENSITY = 15.0
+    DEFAULT_INTENSITY = 9.0
 
     attr_accessor :x, :y, :intensity
 
